@@ -30,7 +30,7 @@ print (1.23)
 ```
 Результат.
 
-![lab1](https://github.com/Aganyaz62/Python/blob/main/skriny/lab1.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab1.png)
 
 Выводы.
 
@@ -57,7 +57,7 @@ print(12+4.8-4+4.12)
 ```
 Результат.
 
-![lab2](https://github.com/Aganyaz62/Python/blob/main/skriny/lab2.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab2.png)
 
 Выводы.
 
@@ -87,7 +87,7 @@ print(one + two)
 ```
 
 Результат.
-![lab3](https://github.com/Aganyaz62/Python/blob/main/skriny/lab3.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab3.png)
 
 Выводы.
 
@@ -123,7 +123,7 @@ print(str(three))
 ```
 Результат.
 
-![lab4](https://github.com/Aganyaz62/Python/blob/main/skriny/lab4.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab4.png)
 
 Выводы.
 
@@ -157,7 +157,7 @@ print(one, two, three)
 
 Результат.
 
-![lab5](https://github.com/Aganyaz62/Python/blob/main/skriny/lab5.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab5.png)
 
 Выводы.
 
@@ -191,7 +191,7 @@ print('Нахождение остатка от деления:', a % b)
 
 Результат.
 
-![lab6](https://github.com/Aganyaz62/Python/blob/main/skriny/lab6.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab6.png)
 
 
 Выводы.
@@ -222,7 +222,7 @@ print(line * 6)
 
 Результат.
 
-![lab7](https://github.com/Aganyaz62/Python/blob/main/skriny/lab7.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab7.png)
 
 Выводы.
 
@@ -243,7 +243,7 @@ print(sentence.count('o'))
 
 Результат.
 
-![lab8](https://github.com/Aganyaz62/Python/blob/main/skriny/lab8.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab8.png)
 
 Выводы.
 
@@ -264,7 +264,7 @@ print('Hello\nWorld')
 
 Результат.
 
-![lab9](https://github.com/Aganyaz62/Python/blob/main/skriny/lab9.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab9.png)
 
 Выводы.
 
@@ -286,7 +286,7 @@ print(sentence[:5])
 
 Результат.
 
-![lab10](https://github.com/Aganyaz62/Python/blob/main/skriny/lab10.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/lab10.png)
 
 Выводы.
 
@@ -311,7 +311,7 @@ print(not True)
 
 Результат.
 
-![cam1](https://github.com/Aganyaz62/Python/blob/main/skriny/cam1.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam1.png)
 
 Выводы.
 
@@ -330,7 +330,7 @@ print(a, b, c)
 
 Результат.
 
-![cam2](https://github.com/Aganyaz62/Python/blob/main/skriny/cam2.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam2.png)
 
 Выводы.
 
@@ -351,7 +351,7 @@ print(x)
 
 Результат.
 
-![cam3](https://github.com/Aganyaz62/Python/blob/main/skriny/cam3.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam3.png)
 
 Выводы.
 
@@ -372,7 +372,7 @@ print(a * 5)
 
 Результат.
 
-![cam4](https://github.com/Aganyaz62/Python/blob/main/skriny/cam4.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam4.png)
 
 Выводы.
 
@@ -397,7 +397,7 @@ print(f"Сегодня {day} {month} {year}. ", end="Всего хорошего
 
 Результат.
 
-![cam5](https://github.com/Aganyaz62/Python/blob/main/skriny/cam5.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam5.png)
 
 Выводы.
 
@@ -422,7 +422,7 @@ print(s[:5] + ' my ' + s[5:])
 
 Результат.
 
-![cam6](https://github.com/Aganyaz62/Python/blob/main/skriny/cam6.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam6.png)
 
 Выводы.
 
@@ -446,7 +446,7 @@ print(len(a))
 
 Результат.
 
-![cam7](https://github.com/Aganyaz62/Python/blob/main/skriny/cam7.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam7.png)
 
 Выводы.
 
@@ -470,7 +470,7 @@ print(s.lower())
 
 Результат.
 
-![cam8](https://github.com/Aganyaz62/Python/blob/main/skriny/cam8.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam8.png)
 
 Выводы.
 
@@ -500,7 +500,7 @@ else:
 
 Результат.
 
-![cam9](https://github.com/Aganyaz62/Python/blob/main/skriny/cam9.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam9.png)
 
 Выводы.
 Функция input() используется для запроса двух чисел у пользователя.
@@ -519,7 +519,7 @@ print("Четное" if n % 2 == 0 else "Нечетное")
 
 Результат.
 
-![cam10](https://github.com/Aganyaz62/Python/blob/main/skriny/cam10.png)
+![lab1](https://github.com/Parahat717/HomeWorks/blob/main/Pythons/tema2/cam10.png)
 
 Выводы.
 
